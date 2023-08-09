@@ -27,7 +27,32 @@
 .App-link {
   color: #61dafb;
 }
-
+.pad{
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+.card{
+  text-align: left;
+  height: 80vh !important;
+  margin: 5% .5%;
+  overflow: hidden;
+  padding: 2%;
+}
+.card-img-top{
+  height: 50% !important;
+}
+p{
+  margin-bottom: 5px !important;
+}
+.height-90{
+  height: 90vh;
+}
+.slide img{
+  height: 85vh;
+}
+h2{
+  padding-bottom: 3rem;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
